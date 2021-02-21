@@ -5,7 +5,7 @@ sections:
     title: Create your personal knowledge graph
     subtitle: Launching Q3 2021. Sign up for our newsletter for updates.
     actions:
-      - label: Learn More
+      - label: Learn Mor
         url: /features
         style: primary
       - label: Contact Us
