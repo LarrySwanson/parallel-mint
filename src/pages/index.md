@@ -8,7 +8,7 @@ sections:
       - label: Learn Mor
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Get notifications
         url: 'https://kgme.substack.com/p/coming-soon'
         style: secondary
     align: left
