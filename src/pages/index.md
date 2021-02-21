@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Create your personal knowledge graph
-    subtitle: Launching Q3 2021. Sign up for our newsletter for updates.
+    subtitle: Launching Q4 2021. Sign up for our newsletter for updates.
     actions:
       - label: Get notifications
         url: 'https://kgme.substack.com/p/coming-soon'
