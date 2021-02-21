@@ -9,7 +9,7 @@ sections:
         url: /features
         style: primary
       - label: Contact Us
-        url: /contact
+        url: 'https://kgme.substack.com/p/coming-soon'
         style: secondary
     align: left
     image: images/nerve cell shutterstock_339804044 enl for EM YouTube channel.jpeg
