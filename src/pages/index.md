@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/nerve cell shutterstock_339804044 enl for EM YouTube channel.jpeg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
