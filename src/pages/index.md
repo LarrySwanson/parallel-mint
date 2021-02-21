@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Create your personal knowledge graph
-    subtitle: Launching soon.
+    subtitle: Launching Q3 2021. Sign up for our newsletter for updates.
     actions:
       - label: Learn More
         url: /features
