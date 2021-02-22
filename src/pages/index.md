@@ -19,9 +19,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - type: features_section
-    title: Features
-    features: []
   - type: blog_feed_section
     title: What's New
     show_recent: true
