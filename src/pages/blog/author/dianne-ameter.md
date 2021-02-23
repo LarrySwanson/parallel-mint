@@ -22,7 +22,7 @@ seo:
       value: Larry Swanson blogs about knowledge graphs.
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: /images/Larry%20Swanson.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
