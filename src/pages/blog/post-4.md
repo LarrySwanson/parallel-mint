@@ -37,7 +37,10 @@ seo:
       relativeUrl: true
 template: post
 image_alt: image with UXMethods.org URL and logo
-excerpt: '"'
+excerpt: >-
+  "While the techniques of graph-based knowledge management have not frequently
+  been applied at a small scale, their semantically enhanced foundations are
+  potentially game changing for sites of any size."
 ---
 I wish I could say this was a case of great minds thinking alike.
 
