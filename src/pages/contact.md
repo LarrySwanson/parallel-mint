@@ -5,7 +5,6 @@ sections:
     title: Contact
     align: center
     has_background: false
-  - type: contact_section
 seo:
   title: Contact
   description: This is the contact page
