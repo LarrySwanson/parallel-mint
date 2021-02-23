@@ -7,6 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: false
     author: src/data/team/dianne-ameter.yaml
+    recent_count: 10
 seo:
   title: Posts by Dianne Ameter
   description: This is the author archive page
