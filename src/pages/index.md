@@ -21,7 +21,7 @@ sections:
       background_image_repeat: repeat
 seo:
   title: KnowledgeGraph.me - personal knowledge graphs
-  description: The preview of the Starter theme
+  description: Build your personal knowledge graph.
   extra:
     - name: 'og:type'
       value: website
