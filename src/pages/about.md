@@ -12,7 +12,7 @@ sections:
       *   What you know
       *   How you and your interests connect with the world
 seo:
-  title: Who We Are
+  title: About KnowledgeGraph.me
   description: This is the about us page
   extra:
     - name: 'og:type'
