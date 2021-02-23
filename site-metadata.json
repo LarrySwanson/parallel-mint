@@ -21,7 +21,7 @@
         ]
     },
     "footer": {
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [],
         "has_social": true,
         "social_links": [
