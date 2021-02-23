@@ -19,7 +19,7 @@ seo:
       value: Posts by Larry Swanson
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Larry Swanson blogs about knowledge graphs.
       keyName: property
     - name: 'og:image'
       value: images/1.png
