@@ -11,7 +11,7 @@ sections:
       *   What you care about
       *   What you know
       *   How you and your interests connect with the world
-  // - type: team_section
+  - type: team_section
     title: Our Team
     team:
       - src/data/team/miles-tone.yaml
