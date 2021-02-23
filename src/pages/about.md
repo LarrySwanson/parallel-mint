@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:title'
       value: KnowledgeGraph.me
     - name: 'twitter:description'
-      value: This is the about us page
+      value: About personal knowledge graphs.
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
