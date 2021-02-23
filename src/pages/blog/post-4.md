@@ -10,9 +10,7 @@ tags:
   - Sourcebit
 image: images/Andy KG hero.webp
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  https://www.andyfitzgeraldconsulting.com/writing/boutique-knowledge-graph-ux-methods/
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
