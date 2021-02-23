@@ -18,17 +18,6 @@ tags:
     '8': s
     '9': u
     '10': m
-  - '0': l
-    '1': o
-    '2': r
-    '3': e
-    '4': m
-    '5': '-'
-    '6': i
-    '7': p
-    '8': s
-    '9': u
-    '10': m
 image: images/Andy KG hero.webp
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
