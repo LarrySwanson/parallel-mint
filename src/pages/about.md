@@ -22,7 +22,7 @@ seo:
       value: About KnowledgeGraph.me
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: About personal knowledge graphs.
       keyName: property
     - name: 'og:image'
       value: images/1.png
