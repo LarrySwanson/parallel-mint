@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:title'
       value: Posts by Larry Swanson
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Larry Swanson blogs about knowledge graphs.
     - name: 'twitter:image'
       value: /images/Larry%20Swanson.jpg
       relativeUrl: true
