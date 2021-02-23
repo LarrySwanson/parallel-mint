@@ -6,7 +6,7 @@ categories:
   - src/data/categories/news.yaml
   - src/data/categories/category-cfxytb0ox.json
 tags:
-  - JAMstack
+  - Andy Fitzgerald
   - Sourcebit
 image: images/Andy KG hero.webp
 seo:
