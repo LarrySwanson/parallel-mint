@@ -9,8 +9,6 @@ tags:
   - JAMstack
   - Sourcebit
 image: images/Andy KG hero.webp
-excerpt: >-
-  https://www.andyfitzgeraldconsulting.com/writing/boutique-knowledge-graph-ux-methods/
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
