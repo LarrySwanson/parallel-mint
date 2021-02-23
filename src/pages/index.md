@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:title'
       value: KnowledgeGraph.me
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Build your personal knowledge graph.
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
