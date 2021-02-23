@@ -1,6 +1,6 @@
 ---
 title: A UX Methods Knowledge Graph
-date: '2021-02-28'
+date: '2021-02-23'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
