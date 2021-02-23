@@ -1,5 +1,5 @@
 ---
-title: Dianne Ameter
+title: Larry Swanson
 sections:
   - type: hero_section
     title: Posts By Larry Swanson
