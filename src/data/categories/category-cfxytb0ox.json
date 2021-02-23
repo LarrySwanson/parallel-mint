@@ -1,5 +1,6 @@
 {
     "id": "knowledge-graph",
     "title": "lorem-ipsum",
-    "type": "category"
+    "type": "category",
+    "link": "knowledge-graph"
 }
