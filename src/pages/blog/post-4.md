@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: A UX Methods Knowledge Graph
 date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
 categories:
