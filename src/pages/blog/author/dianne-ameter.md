@@ -5,7 +5,7 @@ sections:
     title: Posts By Larry Swanson
     align: center
   - type: blog_feed_section
-    show_recent: false
+    show_recent: true
     author: src/data/team/dianne-ameter.yaml
     recent_count: 10
 seo:
