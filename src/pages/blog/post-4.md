@@ -37,6 +37,7 @@ seo:
       relativeUrl: true
 template: post
 image_alt: image with UXMethods.org URL and logo
+excerpt: '"'
 ---
 I wish I could say this was a case of great minds thinking alike.
 
