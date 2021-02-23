@@ -7,7 +7,6 @@ categories:
   - src/data/categories/category-cfxytb0ox.json
 tags:
   - Andy Fitzgerald
-  - Sourcebit
 image: images/Andy KG hero.webp
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
