@@ -7,7 +7,6 @@ sections:
   - type: content_section
     content: |
       Show the world and the web:
-
       *   Who you are
       *   What you care about
       *   What you know
