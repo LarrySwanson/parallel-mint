@@ -1,5 +1,5 @@
 ---
-title: Knowledge Graph.me
+title: KnowledgeGraph.me
 sections:
   - type: hero_section
     title: Create your personal knowledge graph
