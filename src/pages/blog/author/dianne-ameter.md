@@ -9,7 +9,7 @@ sections:
     author: src/data/team/dianne-ameter.yaml
     recent_count: 10
 seo:
-  title: Posts by Dianne Ameter
+  title: Posts by Larry Swanson
   description: This is the author archive page
   extra:
     - name: 'og:type'
