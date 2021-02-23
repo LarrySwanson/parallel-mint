@@ -1,10 +1,6 @@
 ---
 title: Contact
-sections:
-  - type: hero_section
-    title: Contact
-    align: center
-    has_background: false
+sections: []
 seo:
   title: Contact
   description: This is the contact page
