@@ -10,7 +10,7 @@ sections:
     recent_count: 10
 seo:
   title: Posts by Larry Swanson
-  description: This is the author archive page
+  description: Larry Swanson blogs about knowledge graphs.
   extra:
     - name: 'og:type'
       value: website
