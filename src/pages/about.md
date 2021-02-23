@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Personal knowledge graphs
 sections:
   - type: hero_section
     title: Personal knowledge graphs
