@@ -20,7 +20,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
 seo:
-  title: KnowledgeGraph.me
+  title: KnowledgeGraph.me - personal knowledge graphs
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
