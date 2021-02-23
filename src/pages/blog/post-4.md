@@ -38,12 +38,26 @@ seo:
 template: post
 image_alt: image with UXMethods.org URL and logo
 ---
+I wish I could say this was a case of great minds thinking alike.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+Alas, I know Andy Fitzgerald too well to pretend to be at his level of braininess.
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
+But I can at least lay claim to some good timing.
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+Less than 24 hours after I launched the KnowledgeGraph.me website, Andy published an article on his [UX methods knowledge graph project](https://www.andyfitzgeraldconsulting.com/writing/boutique-knowledge-graph-ux-methods/).
+
+In his LinkedIn posting about that article he said, "My sense is that the benefits of semantically enhanced content are potentially game changing for sites of any size."
+
+I could not agree more.
+
+Knowledge graphs shouldn't be only for enterprises and big web search engines.
+
+We can all benefit from organizing our content and other information around ***what it means*** as well as what it is.
+
+Or, as Andy says:
+
+"Where enterprise knowledge graphs are typically used to support large scale data integration, frequently on the scale of billions of resources, a boutique knowledge graph brings the benefits of graph data tools and processes to smaller scale projects.
+
+"The semantic technologies on which knowledge graphs of any size are built are predominately created from open standards. They are also widely supported by an ever-growing collection of open source tools. While the techniques of graph-based knowledge management have not frequently been applied at a small scale, their semantically enhanced foundations are potentially game changing for sites of any size."
+
+I'm excited about the prospects of knowledge graphs to help professionals, small businesses, startups, and other non-enterprise-scale organizations. I hope you are, too.
