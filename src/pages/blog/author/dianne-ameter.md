@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:description'
       value: This is the author archive page
     - name: 'twitter:image'
-      value: images/1.png
+      value: /images/Larry%20Swanson.jpg
       relativeUrl: true
 template: advanced
 ---
