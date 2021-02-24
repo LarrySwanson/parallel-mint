@@ -19,7 +19,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - title: lorem-ipsum
+  - title: Blog posts
     show_recent: false
     recent_count: 0
     type: blog_feed_section
